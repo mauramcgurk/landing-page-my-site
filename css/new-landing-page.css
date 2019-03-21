@@ -1,5 +1,19 @@
 /*****BASE STYLES*****/
 
 body {
+  background: linear-gradient(
+    to right,
+    #9fc9d1 0%,
+    #9fc9d1 50%,
+    #9b694b 50%,
+    #9b694b 100%
+    );
+}
 
+h1 {
+  color: #000048;
+  font-family: 'Playfair Display', serif;
+  font-size: 180px;
+  line-height: 90%;
+  text-align: center;
 }
