@@ -10,10 +10,48 @@ body {
     );
 }
 
+/***** GRID *****/
+.full-width {
+  width: 1200px;
+  margin: auto;
+}
+
+.half-width {
+  width: 600px;
+  float:left;
+}
+
+/***** MAIN *****/
+
 h1 {
   color: #000048;
   font-family: 'Playfair Display', serif;
   font-size: 180px;
   line-height: 90%;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+h2 {
+  color: #000048;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+h3 {
+  color: #000048;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
   text-align: center;
 }
