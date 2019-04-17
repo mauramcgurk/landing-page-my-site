@@ -44,6 +44,11 @@ img {
   width: 200px;
 }
 
+a {
+  color: #052548;
+  text-decoration: none;  
+}
+
 h2 {
   color: #052548;
   font-family: 'Raleway', sans-serif;
