@@ -3,10 +3,10 @@
 body {
   background: linear-gradient(
     to right,
-    #9fc9d1 0%,
-    #9fc9d1 50%,
-    #9b694b 50%,
-    #9b694b 100%
+    #9cc9df 0%,
+    #9cc9df 50%,
+    #efa351 50%,
+    #efa351 100%
     );
 }
 
@@ -24,10 +24,12 @@ body {
 /***** MAIN *****/
 
 h1 {
-  color: #000048;
+  color: #052548;
   font-family: 'Playfair Display', serif;
-  font-size: 180px;
+  font-size: 150px;
   line-height: 90%;
+  margin-top: 50px;
+  margin-bottom: 36px;
   text-align: center;
 }
 
@@ -43,15 +45,19 @@ img {
 }
 
 h2 {
-  color: #000048;
+  color: #052548;
   font-family: 'Raleway', sans-serif;
-  font-size: 40px;
+  font-size: 34px;
+  margin-top: 20px;
+  margin-bottom: 0px;
   text-align: center;
 }
 
 h3 {
-  color: #000048;
+  color: #052548;
   font-family: 'Raleway', sans-serif;
-  font-size: 25px;
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 35px;
   text-align: center;
 }
